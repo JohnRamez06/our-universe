@@ -1,0 +1,51 @@
+/* src/styles/variables.css */
+:root {
+  /* Color Palette */
+  --color-void: #05030f;
+  --color-deep-space: #0a0618;
+  --color-nebula-purple: #1a0e3a;
+  --color-cosmic-blue: #0d1b4b;
+
+  /* Accent Colors */
+  --color-star-white: #f0eeff;
+  --color-aurora-violet: #8b5cf6;
+  --color-nebula-pink: #ec4899;
+  --color-cosmic-teal: #06b6d4;
+  --color-star-gold: #fbbf24;
+  --color-aurora-green: #10b981;
+
+  /* Glass */
+  --glass-bg: rgba(255, 255, 255, 0.04);
+  --glass-border: rgba(139, 92, 246, 0.2);
+  --glass-blur: blur(16px);
+
+  /* Typography */
+  --font-display: 'Cinzel', serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+  --space-2xl: 64px;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 300ms ease;
+  --transition-slow: 500ms ease;
+
+  /* Z-index */
+  --z-base: 1;
+  --z-dropdown: 100;
+  --z-modal: 200;
+  --z-toast: 300;
+  --z-overlay: 400;
+}
