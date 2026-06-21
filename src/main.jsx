@@ -6,6 +6,7 @@ import './styles/variables.css'
 import './styles/typography.css'
 import './styles/animations.css'
 import './styles/glassmorphism.css'
+import './styles/components.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>

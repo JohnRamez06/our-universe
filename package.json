@@ -9,17 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "date-fns": "^3.3.1",
+    "firebase": "^10.14.1",
+    "framer-motion": "^11.0.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.460.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^6.22.0",
-    "framer-motion": "^11.0.0",
-    "firebase": "^10.8.0",
-    "leaflet": "^1.9.4",
-    "react-leaflet": "^4.2.1",
-    "react-quill": "^2.0.0",
-    "date-fns": "^3.3.1",
-    "lucide-react": "^0.316.0",
-    "react-hot-toast": "^2.4.1"
+    "react-hot-toast": "^2.4.1",
+    "react-leaflet": "^5.0.0",
+    "react-quill-new": "^3.3.3",
+    "react-router-dom": "^6.22.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
